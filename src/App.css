@@ -1,3 +1,7 @@
+:root {
+  --backgroundColor: #f0f2f5;
+}
 body {
+  background-color: var(--backgroundColor);
   font-family: "Quicksand", sans-serif;
 }
